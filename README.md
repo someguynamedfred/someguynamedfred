@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @someguynamedfred
 - 👀 I’m interested in learning and mastering Python
-- 🌱 I’m currently learning how not to get str errors
+- 🌱 I’m currently learning how not to get str() errors
 - 💞️ I’m looking to collaborate on anything I can get my hands on
 - 📫 How to reach me by emailing me at someguynamedfred.github@outlook.com
 - ⚡ The hardest part about surviving the zombie apocalypse would be living without Dr. Pepper
